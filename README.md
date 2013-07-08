@@ -2,7 +2,7 @@
 
 A 3D adventure game that puts you to sleep.
 
-It's my first game with LibGDX. I am currently making this game to learn LibGDX and Android.
+It's my first game with LibGDX. I am currently making this game to learn LibGDX and OpenGL.
 
 ## Building
 
